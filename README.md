@@ -32,7 +32,7 @@ If you don't know how to create an Iot Hub and register a new device, use the fo
 
 When registering a new device, don't forget to select ``X.509 Self-Signed`` in the ``Authentication type`` field, and paste the SHA1 key that you copied before in both the ``Primary key`` and ``Secondary key`` fields.
 
-<img align="center" alt="Register a device" src=""/>  
+<img align="center" alt="Register a device" src="https://github.com/s-gregorini003/azure-iot-arduino-nano-33-iot/blob/master/img/register-device-iothub.png"/>  
 
 ## Configuration
 
