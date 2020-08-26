@@ -45,3 +45,7 @@ To connect the device to IoT Hub you need to copy some values in the ``arduino_s
 #define SECRET_DEVICE_ID " "
 
 ```
+
+## Other Resources
+
+If you want to know more about this topic, check out the related [article](https://s-gregorini003.github.io/post/nano33iotazure/).
